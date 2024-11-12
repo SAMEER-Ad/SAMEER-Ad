@@ -1,8 +1,6 @@
 <h1 align="center"> 🌟 Hi there! I’m samir👋</h1>
 <h3 align="center">Aspiring Software Engineer with a strong passion for Computer Science, Robotics, and Game Development</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms (DSA) with C and C++**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA) with C, C++ and C#**
 
 - 👯 I’m looking to collaborate on **Game Development**
@@ -10,6 +8,8 @@
 - 🤝 I’m looking for help with **Mobile and Desktop App Development and Game Development**
 
 - 📫 How to reach me **unknownusr82@gmail.com**
+  
+- 🖥️ Skilled in Programming Basics across **C, C++, C#, HTML, CSS,** with experience in **Unity** 🎮 for game development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
