@@ -1,5 +1,5 @@
 <h1 align="center"> 🌟 Hi there! I’m samir👋</h1>
-<h3 align="center">Aspiring Software Engineer with a strong passion for Computer Science, Robotics, and Game Development</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA) with C, C++ and C#**
 
